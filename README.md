@@ -8,4 +8,6 @@
 - **[My Personal GitHub](b-deforce.github.io/)**
 - **[LinkedIn](https://www.linkedin.com/in/bojedeforce/)**
 
+![B-Deforce's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Deforce&show_icons=true&theme=radical)
+
 Thank you for visiting my page. Feel free to explore my repositories and get in touch if you find any project interesting or want to collaborate!
