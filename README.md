@@ -5,7 +5,7 @@
 🚀 Alongside my academic pursuits, I also run an eyewear company, called [Naos Optics](www.naos-optics.com).
 
 🔗 Connect with me:
-- **[My Personal GitHub](b-deforce.github.io/)**
+- **[My Personal GitHub](https://b-deforce.github.io)**
 - **[LinkedIn](https://www.linkedin.com/in/bojedeforce/)**
 
 ![B-Deforce's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Deforce&show_icons=true&theme=radical)
